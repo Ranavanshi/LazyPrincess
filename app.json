@@ -98,7 +98,7 @@
         },
         "FQDN": {
             "description": "Read the readme for more info about this var  **Leave Empty for heroku**",
-            "required": true
+            "required": false
         },
         "name": {
             "description": "Session Name",
