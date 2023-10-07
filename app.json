@@ -1,6 +1,6 @@
 {
-    "name": "LazyPrincess",
-    "description": "LazyPrincess is a Super and Fully Advance Auto-filter-Bot - With Artificial Intelligence + File renaming + Url Shortning + Online FIle Streaming Feature. Thanks to LazyDeveloper for making it so cool.",
+    "name": "webnet",
+    "description": "webnet is a Super and Fully Advance Auto-filter-Bot - With Artificial Intelligence + File renaming + Url Shortning + Online FIle Streaming Feature. Thanks to LazyDeveloper for making it so cool.",
     "stack": "container",
     "keywords": [
       "LazyDeveloperr",
@@ -17,8 +17,8 @@
       "Auto filter bot for heroku",
       "Why I don't know LazyDeveloperr"
     ],
-    "website": "https://github.com/LazyDeveloperr/LazyPrincess",
-    "repository": "https://github.com/LazyDeveloperr/LazyPrincess",
+    "website": "https://github.com/Ranavanshi/LazyPrincess",
+    "repository": "https://github.com/Ranavanshi/LazyPrincess",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -66,7 +66,7 @@
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults name is Telegram_files. If you are using the same database, then use different collection name for each bot",
-            "value": "Telegram_files",
+            "value": "study_materials",
             "required": false
         },
         "SLEEP_THRESHOLD": {
@@ -112,12 +112,12 @@
         },
         "LAZY_RENAMERS": {
             "description": "Users id, whom you want to allow file renaming ",
-            "value": "5965340120",
+            "value": "1995154708",
             "required": true
         },
         "REQ_CHANNEL": {
             "description": "To send logs of unavailable contnts",
-            "value": "-100xxxxxxx",
+            "value": "-1001986011021",
             "required": true
         },
         "URL_MODE": {
@@ -142,7 +142,7 @@
         },
         "MY_USERS": {
             "description": "Id of the users whom you want to allow to forward message in file protection mode ",
-            "value": "5965340120 5448908073 5590491131",
+            "value": "1995154708",
             "required": true
         }
     },
